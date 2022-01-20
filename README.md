@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Masood Mohamed
-- 👀 I’m interested in Python Javascript C Java React Frontend Backend and App development
+- 👀 I’m interested in Python C Kotlin Frontend Backend and App development
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on JavaScript and python
 - 📫 How to reach me ---reach me @ mascanew@gmail.com
