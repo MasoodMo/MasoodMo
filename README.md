@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Masood Mohamed
-- 👀 I’m interested in Python C Kotlin Frontend Backend and App development
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on JavaScript and python
-- 📫 How to reach me ---reach me @ mascanew@gmail.com
+- 👋 Hi, I’m Masood Mohamed.
+- 👀 I’m interested in Python Kotlin Frontend Backend and App development CyberSecurity and Networking.
+- 🌱 I’m currently learning Python, Javascript and some Networking principles.
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me ---reach me @ devmasca@gmail.com
 
 <!---
 MasoodMo/Masood Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
